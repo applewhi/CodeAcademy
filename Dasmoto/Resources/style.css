@@ -1,0 +1,22 @@
+html{
+  font-family: Helvetica;
+}
+h1{
+  color: khaki;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  background-image: url("./pattern.jpeg");
+}
+h2{
+  color:white;
+  font-size:32px;
+  font-weight:bold;
+}
+.main-banner {
+  background-image: url("./pattern.jpeg");
+}
+.price {
+  font-weight:bold;
+  color:blue;
+}
